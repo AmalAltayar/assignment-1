@@ -1,0 +1,8 @@
+.page-header {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(6, 115, 79);
+    padding: 30px;
+    color: beige;
+    box-shadow: 0 3px 6px rgba(103, 96, 96, 0.975);
+}
